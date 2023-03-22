@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366521954126",
+    "project_id": "vintage-home-f8ca0",
+    "storage_bucket": "vintage-home-f8ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366521954126:android:294adca923d0fdce9f381f",
+        "android_client_info": {
+          "package_name": "com.example.vintagehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366521954126-sn3mq5b5vnu4gkr4gt91akra5ccr8h8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13HNTh10BOFzvkrkj0Nkr9NM3oNvsJd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366521954126-sn3mq5b5vnu4gkr4gt91akra5ccr8h8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
